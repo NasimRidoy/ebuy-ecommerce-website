@@ -48,4 +48,3 @@
 
 ```bash
 git clone https://github.com/NasimRidoy/ebuy-ecommerce-website.git
-cd eBuy
