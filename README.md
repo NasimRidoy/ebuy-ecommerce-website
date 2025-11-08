@@ -47,5 +47,5 @@
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/eBuy.git
+git clone https://github.com/NasimRidoy/ebuy-ecommerce-website.git
 cd eBuy
